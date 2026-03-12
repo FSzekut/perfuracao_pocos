@@ -141,12 +141,6 @@ pip install -r requirements.txt
 python train.py
 ```
 
-Ou, se preferir manter o nome antigo:
-
-```bash
-python main_code.py
-```
-
 Ao executar, o script deve gerar:
 
 - `reports/model_report.csv`
